@@ -1,0 +1,9 @@
+# Java compiled files
+*.class
+/bin/
+
+# Maven build files
+/target/
+
+# IDE temporary files
+.metadata/
